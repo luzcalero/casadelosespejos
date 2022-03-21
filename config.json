@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
   "footer": " Cra. 12 #1-41, Cali, Valle del Cauca | Alejandra Forero",
   "usage-stats": false
