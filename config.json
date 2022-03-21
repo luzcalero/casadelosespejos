@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Casa de ;os Espejos",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": " Cra. 12 #1-41, Cali, Valle del Cauca \n Alejandra Forero",
   "usage-stats": false
 }
