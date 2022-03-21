@@ -8,7 +8,7 @@
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": " Cra. 12 #1-41, Cali, Valle del Cauca | Alejandra Forero",
+  "footer": " Cra. 12 #1-41, Cali, Valle del Cauca | © Alejandra Forero 2022",
   "usage-stats": false,
   "featuredAlbum": "marqueteria"
 }
